@@ -12,7 +12,8 @@ None
 
 ## Future Development
 
-None
+Prodcedural generation, materials, eneimes + nav meshes, etc.
 
-## Created by 
+## Created by
+Izzy Holmes
  
